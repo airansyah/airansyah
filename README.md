@@ -22,6 +22,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/assets/main/worm-animation.svg" width="400" />
+</p>
 
 ---
 
