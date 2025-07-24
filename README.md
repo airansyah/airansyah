@@ -24,22 +24,6 @@
 </p>
 
 ---
-
-### 🪱 Animated Worm Buddy
-
-<p align="center">
-  <svg width="300" height="100" viewBox="0 0 300 100">
-    <path id="worm" d="M10 50 Q 30 30, 50 50 T 90 50 T 130 50 T 170 50 T 210 50 T 250 50 T 290 50" fill="none" stroke="#a0522d" stroke-width="6" stroke-linecap="round">
-      <animate attributeName="d" dur="1.5s" repeatCount="indefinite"
-        values="
-          M10 50 Q 30 30, 50 50 T 90 50 T 130 50 T 170 50 T 210 50 T 250 50 T 290 50;
-          M10 50 Q 30 70, 50 50 T 90 50 T 130 50 T 170 50 T 210 50 T 250 50 T 290 50;
-          M10 50 Q 30 30, 50 50 T 90 50 T 130 50 T 170 50 T 210 50 T 250 50 T 290 50
-        " />
-    </path>
-  </svg>
-</p>
-
 ---
 
 ### 🚀 Featured Projects
