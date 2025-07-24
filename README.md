@@ -9,7 +9,7 @@
 
 - 👨‍💻 I love building responsive interfaces and experimenting with blockchain ideas
 
-- 💬 Ask me about **Bootstrap, JavaScript, CSS, Python and anything frontend**
+- 💬 Ask me about **Bootstrap, JavaScript, CSS, python and anything frontend**
 
 - 📫 Reach me at **airansyahmuhafiz2@gmail.com**
 
@@ -20,10 +20,12 @@
 ### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,github" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/assets/main/worm-animation.svg" width="400" />
 </p>
 
----
 ---
 
 ### 🚀 Featured Projects
