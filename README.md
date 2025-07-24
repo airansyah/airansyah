@@ -9,7 +9,7 @@
 
 - 👨‍💻 I love building responsive interfaces and experimenting with blockchain ideas
 
-- 💬 Ask me about **Bootstrap, JavaScript, CSS, phyton and anything frontend**
+- 💬 Ask me about **Bootstrap, JavaScript, CSS, python and anything frontend**
 
 - 📫 Reach me at **airansyahmuhafiz2@gmail.com**
 
